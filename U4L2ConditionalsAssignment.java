@@ -26,7 +26,7 @@ public class U4L2ConditonalsAssignment {
                 
                 if((MAX_BUDGET-moneySpent)<29.99){
                     System.out.println("\nActually, it looks like you can't afford anything else in this store");
-                    System.out.println("Thank you for you busines, not get out");
+                    System.out.println("Thank you for you busines, now get out");
                     break;
                 }else{
                     System.out.println("Please choose another item");
